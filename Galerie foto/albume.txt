@@ -1,0 +1,16 @@
+4
+ALBUM_1
+3
+poza1.jpg 1
+poza5.jpg 2.1
+poza10.jpg 2.9
+ALBUM_2
+2
+poza2.jpg 1.2
+poza13.jpg 1.3
+ALBUM_3
+1
+poza3.jpg 2
+ALBUM_4
+0
+

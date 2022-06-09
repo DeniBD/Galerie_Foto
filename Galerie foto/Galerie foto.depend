@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1648451688 source:c:\users\denisa\galerie foto\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<ctype.h>
+	<string.h>
+	<conio.h>
+
